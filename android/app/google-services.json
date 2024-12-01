@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "247810435501",
+    "firebase_url": "https://labexam-50257-default-rtdb.firebaseio.com",
+    "project_id": "labexam-50257",
+    "storage_bucket": "labexam-50257.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247810435501:android:00e3c4ee09343568209924",
+        "android_client_info": {
+          "package_name": "com.example.firebaselab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuhQQiN3VVHmtwzLhbUSHejLHmfMVKf1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247810435501:android:59caf596ac558d53209924",
+        "android_client_info": {
+          "package_name": "com.example.firelab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuhQQiN3VVHmtwzLhbUSHejLHmfMVKf1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
